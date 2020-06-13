@@ -1,5 +1,5 @@
 # drum-kit-game
-you will play music by pressing button 
+you will play music by pressing buttons
 # 1.
 <img src="disp_img2.png">
 # 2.
